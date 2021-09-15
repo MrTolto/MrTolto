@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTolto
 - 👀 I’m interested in sports and computer stuff.
-- 🌱 I’m currently learning Computer Scienc at ELTE IK.
+- 🌱 I’m currently learning Computer Science at ELTE IK.
 - 📫 How to reach me balogh.ricsi.hivatalos@gmail.com
 
 <!---
